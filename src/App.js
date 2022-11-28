@@ -48,7 +48,7 @@ function App() {
       name: name
     }]))
   }
-
+console.log("test")
   return (
     <div className="App" style ={{marginTop:"rem"}}>
 
